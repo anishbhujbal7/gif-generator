@@ -1,3 +1,23 @@
+# 🎲 Random GIF Generator
+
+This is a simple and fun Random GIF Generator built using **React**, **Tailwind CSS**, and the **Giphy API**. It allows users to generate random GIFs or tag-specific GIFs (like "car", "funny", etc.) using custom React hooks.
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live demo](https://anishbhujbal7.github.io/gif-generator)
+
+## 🛠️ Features
+
+- 🔁 Generate random GIFs on button click
+- 🔍 Search for tag-based GIFs
+- ⚛️ Built using React and Tailwind CSS
+- 🎣 Uses custom React hook (`useGif`) for API handling and GIF management
+- 🔃 Loading spinner while fetching data
+- 📦 Axios for making HTTP requests
+- 🧪 Clean component structure for maintainability
+
+## 📂 Folder Structure
+
 
 ## 🔧 Technologies Used
 
